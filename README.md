@@ -1,2 +1,2 @@
 # My app 
-This app allows us to calculate GCD between two numbers.
+This app allows you to calculate GCD between two numbers.
